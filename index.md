@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Noticias y estado de proyectos de la UTV
 
-You can use the [editor on GitHub](https://github.com/utvoluntariado/utv-news/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Proyectos
+### RadarSTATS para iOS ![en-pruebas](https://img.shields.io/badge/Estado-en%20pruebas-blue) ![responsable](https://img.shields.io/badge/Responsable-@jorgej--ramos-lightgrey)
+RadarSTATS para iOS no ha pasado la revisión de contenidos de Apple, dado que [contiene información sensible acerca de la pandemia de COVID19](https://developer.apple.com/news/?id=03142020a), y por tanto no puede ser publicada en el AppStore.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Por el momento la app sólo es descargable desde [TestFlight](https://testflight.apple.com).
+Visita el [repositorio que contiene el código fuente](https://github.com/utvoluntariado/radar-stats-ios), o descarga la aplicación desde Testflight, navegando hasta [este enlace](https://testflight.apple.com/join/QelyuSYZ) desde tu iPhone.
 
-### Markdown
+El código fuente queda a disposición de cualquier institución reconocida interesada en publicar esta app. Si fuera así, se ruega contactactar con el responsable de proyecto o en __info@utv.com.es__.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Documentación RadarCOVID ![en-curso](https://img.shields.io/badge/Estado-en%20curso-yellow) ![responsable](https://img.shields.io/badge/Responsable-@jaranper-lightgrey)
+Preguntas frecuentes e información variada sobre RadarCOVID.
 
-```markdown
-Syntax highlighted code block
+### Calculadora HEPA ![online](https://img.shields.io/badge/Estado-online-green) ![responsable](https://img.shields.io/badge/Responsable-@viCasco-lightgrey)
+Aplicación web adaptada a móviles que permite calcular con sencillez dos elementos esenciales para la educación presencial y otro tipo de reuniones en interiores:
 
-# Header 1
-## Header 2
-### Header 3
+- Filtro HEPA adecuado para las dimensiones de la sala y número de personas.
+- Límite de CO2 (en ppm) medido en sala a partir del cual sería conveniente ampliar las medidas de ventilación.
 
-- Bulleted
-- List
+Visita la calculadora desde [este enlace](http://hepa.utv.com.es).
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/utvoluntariado/utv-news/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Noticias
+### 14 de Octubre de 2020
+Nace este proyecto de noticias y estado de proyectos
