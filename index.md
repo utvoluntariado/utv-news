@@ -1,9 +1,9 @@
 # Índice de contenidos
 
 - [Proyectos](#proyectos)
+  * [Calculadora HEPA](#calculadora-hepa)
   * [RadarSTATS para iOS](#radarstats-para-ios)
   * [Documentación RadarCOVID](#documentación-radarcovid)
-  * [Calculadora HEPA](#calculadora-hepa)
 - [Noticias](#noticias)
   * [14 de Octubre de 2020](#14-de-octubre-de-2020)
 
@@ -11,6 +11,16 @@ ___
 
 
 ## Proyectos
+### Calculadora HEPA
+![online](https://img.shields.io/badge/Estado-online-green) ![responsable](https://img.shields.io/badge/Responsable-@viCasco-lightgrey)
+
+Aplicación web adaptada a móviles que permite calcular con sencillez dos elementos esenciales para la educación presencial y otro tipo de reuniones en interiores:
+
+- Filtro HEPA adecuado para las dimensiones de la sala y número de personas.
+- Límite de CO2 (en ppm) medido en sala a partir del cual sería conveniente ampliar las medidas de ventilación.
+
+Visita la calculadora desde [este enlace](http://hepa.utv.com.es).
+
 ### RadarSTATS para iOS
 ![en-pruebas](https://img.shields.io/badge/Estado-en%20pruebas-blue) ![responsable](https://img.shields.io/badge/Responsable-@jorgej--ramos-lightgrey)
 
@@ -26,17 +36,6 @@ El código fuente queda a disposición de cualquier institución reconocida inte
 ![en-curso](https://img.shields.io/badge/Estado-en%20curso-yellow) ![responsable](https://img.shields.io/badge/Responsable-@jaranper-lightgrey)
 
 Preguntas frecuentes e información variada sobre RadarCOVID.
-
-
-### Calculadora HEPA
-![online](https://img.shields.io/badge/Estado-online-green) ![responsable](https://img.shields.io/badge/Responsable-@viCasco-lightgrey)
-
-Aplicación web adaptada a móviles que permite calcular con sencillez dos elementos esenciales para la educación presencial y otro tipo de reuniones en interiores:
-
-- Filtro HEPA adecuado para las dimensiones de la sala y número de personas.
-- Límite de CO2 (en ppm) medido en sala a partir del cual sería conveniente ampliar las medidas de ventilación.
-
-Visita la calculadora desde [este enlace](http://hepa.utv.com.es).
 
 ___
 ## Noticias
