@@ -45,5 +45,7 @@ Dada la imposibilidad de publicar RadarSTATS en los stores de apps de Apple y Go
 
 Hoy se ha subido la versión 1.0.0(8) que contiene un widget para iOS 14 además de todos los cambios añadidos durante días para intentar pasar la revisión de Apple. Algunos de estos cambios serán eliminados en futuras actualizaciones.
 
+Recuerda que para poder utilizar RadarSTATS para iOS, has de navegar hasta [este enlace](https://testflight.apple.com/join/QelyuSYZ) desde tu iPhone o iPad.
+
 ### 14 de Octubre de 2020
 Nace este repositorio de noticias y estado de proyectos
