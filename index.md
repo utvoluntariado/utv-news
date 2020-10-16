@@ -38,12 +38,12 @@ El código fuente queda a disposición de cualquier institución reconocida inte
 ![online](https://img.shields.io/badge/Estado-online-green) ![responsable](https://img.shields.io/badge/Responsable-@jaranper-lightgrey)
 
 Preguntas frecuentes e información variada sobre RadarCOVID.
-Puedes visitar estas FAQ [desde este enlace](https://github.com/utvoluntariado/radar-covid-docs).
+Puedes visitar estas FAQ [desde este enlace](https://utvoluntariado.github.io/radar-covid-docs/).
 
 ___
 ## Noticias
 ### 16 de Octubre de 2020
-- Se publican las FAQ ampliadas escritas por @jaranper. Puedes visitar estas FAQ [desde este enlace](https://github.com/utvoluntariado/radar-covid-docs).
+- Se publican las FAQ ampliadas escritas por @jaranper. Puedes visitar estas FAQ [desde este enlace](https://utvoluntariado.github.io/radar-covid-docs/).
 
 - El trabajo de la UTV comienza a dar sus frutos: Pablo Fuente se ha hecho eco de la calculadora HEPA que se ha desarrollado en el seno de esta comunidad durante el programa _Informe Covid_, dirigido por Iker Jiménez. Este programa se emitió el 15 de Octubre de 2020 en Tele5, en prime time.
 Puedes ver algunas imágenes en [este tweet de la cuenta oficial de la UTV](https://twitter.com/UTVoluntariado/status/1316836634684424192?s=20).
