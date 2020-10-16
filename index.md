@@ -5,6 +5,7 @@
   * [RadarSTATS para iOS](#radarstats-para-ios)
   * [Documentación RadarCOVID](#documentación-radarcovid)
 - [Noticias](#noticias)
+  * [16 de Octubre de 2020](#16-de-octubre-de-2020)
   * [15 de Octubre de 2020](#15-de-octubre-de-2020)
   * [14 de Octubre de 2020](#14-de-octubre-de-2020)
 
@@ -40,6 +41,12 @@ Preguntas frecuentes e información variada sobre RadarCOVID.
 
 ___
 ## Noticias
+### 16 de Octubre de 2020
+El trabajo de la UTV comienza a dar sus frutos: Pablo Fuente se ha hecho eco de la calculadora HEPA que se ha desarrollado en el seno de esta comunidad durante el programa _Informe Covid_, dirigido por Iker Jiménez. Este programa se emitió el 15 de Octubre de 2020 en Tele5, en prime time.
+
+Puedes ver algunas imágenes en [este tweet de la cuenta oficial de la UTV](https://twitter.com/UTVoluntariado/status/1316836634684424192?s=20).
+Enhorabuena a todos.
+
 ### 15 de Octubre de 2020
 Dada la imposibilidad de publicar RadarSTATS en los stores de apps de Apple y Google, seguiremos manteniendo el código para descargas fuera de ese circuito.
 
