@@ -44,7 +44,7 @@ Puedes visitar estas FAQ [desde este enlace](https://utvoluntariado.github.io/ra
 ___
 ## Noticias
 ### 17 de Octubre de 2020
-Se publican unas guías de estilo básicas y recursos gráficos, imprescindibles para dar los primeros pasos en la UTV. Si eres nuevo por aquí, te recomendamos echar un vistazo a estas guías [desde este enlace](https://github.com/utvoluntariado/utv-resources).
+Se publican unas guías de estilo básicas y recursos gráficos, imprescindibles para dar los primeros pasos en la UTV. Si eres nuevo por aquí, te recomendamos echar un vistazo a estas guías [desde este enlace](https://github.com/utvoluntariado/utv-recursos-y-manuales).
 
 ### 16 de Octubre de 2020
 - Se publican las FAQ ampliadas escritas por @jaranper. Puedes visitar estas FAQ [desde este enlace](https://utvoluntariado.github.io/radar-covid-docs/).
