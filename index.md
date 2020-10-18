@@ -44,7 +44,7 @@ Puedes visitar estas FAQ [desde este enlace](https://utvoluntariado.github.io/ra
 
 ___
 ## Noticias
-### 17 de Octubre de 2020
+### 18 de Octubre de 2020
 - Se publica una wiki para el proyecto `Radar STATS iOS`, que contendrá información más técnica acerca del proyecto.
 - Se publican los recursos gráficos para poder usar iconos de la UTV cuadrados.
 - Se actualiza el manual de estilo.
