@@ -5,6 +5,7 @@
   * [RadarSTATS para iOS](#radarstats-para-ios)
   * [Documentación RadarCOVID](#documentación-radarcovid)
 - [Noticias](#noticias)
+  * [18 de Octubre de 2020](#18-de-octubre-de-2020)
   * [17 de Octubre de 2020](#17-de-octubre-de-2020)
   * [16 de Octubre de 2020](#16-de-octubre-de-2020)
   * [15 de Octubre de 2020](#15-de-octubre-de-2020)
@@ -43,6 +44,11 @@ Puedes visitar estas FAQ [desde este enlace](https://utvoluntariado.github.io/ra
 
 ___
 ## Noticias
+### 17 de Octubre de 2020
+- Se publica una wiki para el proyecto `Radar STATS iOS`, que contendrá información más técnica acerca del proyecto.
+- Se publican los recursos gráficos para poder usar iconos de la UTV cuadrados.
+- Se actualiza el manual de estilo.
+
 ### 17 de Octubre de 2020
 Se publican unas guías de estilo básicas y recursos gráficos, imprescindibles para dar los primeros pasos en la UTV. Si eres nuevo por aquí, te recomendamos echar un vistazo a estas guías [desde este enlace](https://github.com/utvoluntariado/utv-recursos-y-manuales).
 
