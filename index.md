@@ -2,9 +2,11 @@
 
 - [Proyectos](#proyectos)
   * [Calculadora HEPA](#calculadora-hepa)
+  * [Calculadora Riesgo](#calculadora-riesgo)
   * [RadarSTATS para iOS](#radarstats-para-ios)
   * [Documentación RadarCOVID](#documentación-radarcovid)
 - [Noticias](#noticias)
+  * [20 de Octubre de 2020](#20-de-octubre-de-2020)
   * [18 de Octubre de 2020](#18-de-octubre-de-2020)
   * [17 de Octubre de 2020](#17-de-octubre-de-2020)
   * [16 de Octubre de 2020](#16-de-octubre-de-2020)
@@ -25,6 +27,15 @@ Aplicación web adaptada a móviles que permite calcular con sencillez dos eleme
 
 Visita la calculadora desde [este enlace](http://hepa.utv.com.es).
 
+Basado en el trabajo del Prof. Jose-Luis Jiménez y Pablo Fuente.
+
+### Calculadora de Riesgo
+![en-desarrollo](https://img.shields.io/badge/Estado-en%20desarrollo-yellow) ![responsable](https://img.shields.io/badge/Responsable-@bernatvadell-lightgrey)
+
+Aplicación web adaptada a móviles que permite calcular un porcentaje aproximado de probabilidad de contagio por COVID19, en función de la actividad y el lugar donde se realiza.
+
+Basado en el trabajo del Prof. Jose-Luis Jiménez
+
 ### RadarSTATS para iOS
 ![en-pruebas](https://img.shields.io/badge/Estado-en%20pruebas-blue) ![responsable](https://img.shields.io/badge/Responsable-@jorgej--ramos-lightgrey)
 
@@ -44,6 +55,9 @@ Puedes visitar estas FAQ [desde este enlace](https://utvoluntariado.github.io/ra
 
 ___
 ## Noticias
+### 20 de Octubre de 2020
+Comienzan los trabajos de desarrollo para adaptar la calculadora de riesgo de contagio por COVID19 del Prof. Jose-Luis Jiménez.
+
 ### 18 de Octubre de 2020
 - Se publica una wiki para el proyecto `Radar STATS iOS`, que contendrá información más técnica acerca del proyecto.
 - Se publican los recursos gráficos para poder usar iconos de la UTV cuadrados.
