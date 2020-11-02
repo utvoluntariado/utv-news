@@ -5,7 +5,9 @@
   * [Calculadora Riesgo](#calculadora-riesgo)
   * [RadarSTATS para iOS](#radarstats-para-ios)
   * [Documentación RadarCOVID](#documentación-radarcovid)
+  * [Propuestas y estudios](#radarstats-para-ios)
 - [Noticias](#noticias)
+  * [2 de Noviembre de 2020](#2-de-noviembre-de-2020)
   * [20 de Octubre de 2020](#20-de-octubre-de-2020)
   * [18 de Octubre de 2020](#18-de-octubre-de-2020)
   * [17 de Octubre de 2020](#17-de-octubre-de-2020)
@@ -53,8 +55,17 @@ El código fuente queda a disposición de cualquier institución reconocida inte
 Preguntas frecuentes e información variada sobre RadarCOVID.
 Puedes visitar estas FAQ [desde este enlace](https://utvoluntariado.github.io/radar-covid-docs/).
 
+### Propuestas y estudios
+![online](https://img.shields.io/badge/Estado-online-green) ![responsable](https://img.shields.io/badge/Responsable-@UTVoluntariado-lightgrey)
+
+Propuestas a terceros y estudios realizados por la Unidad Tecnológica de Voluntariado.
+Puedes revisar todas los documentos públicos [desde este enlace](https://github.com/utvoluntariado/utv-propuestas).
+
 ___
 ## Noticias
+### 2 de Noviembre de 2020
+Se crea [el repositorio público de propuestas y estudios realizados por la UTV](https://github.com/utvoluntariado/utv-propuestas). Inagurándolo, se publica el borrador final de la propuesta de Venue Tagging para integración con Radar COVID.
+
 ### 20 de Octubre de 2020
 Comienzan los trabajos de desarrollo para adaptar la calculadora de riesgo de contagio por COVID19 del Prof. Jose-Luis Jiménez.
 
