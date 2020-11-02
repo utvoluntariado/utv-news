@@ -8,6 +8,7 @@
   * [Propuestas y estudios](#radarstats-para-ios)
 - [Noticias](#noticias)
   * [2 de Noviembre de 2020](#2-de-noviembre-de-2020)
+  * [30 de Octubre de 2020](#30-de-octubre-de-2020)
   * [20 de Octubre de 2020](#20-de-octubre-de-2020)
   * [18 de Octubre de 2020](#18-de-octubre-de-2020)
   * [17 de Octubre de 2020](#17-de-octubre-de-2020)
@@ -65,6 +66,10 @@ ___
 ## Noticias
 ### 2 de Noviembre de 2020
 Se crea [el repositorio público de propuestas y estudios realizados por la UTV](https://github.com/utvoluntariado/utv-propuestas). Inagurándolo, se publica el borrador final de la propuesta de Venue Tagging para integración con Radar COVID.
+
+### 30 de Octubre de 2020
+Radar COVID finalmente se ha integrado con el hub europeo de las aplicación DP3T de traceo de contactos. Esto significa que, entre otras cosas, perdemos las estadísticas de uso a nivel nacional que [Radar STATS](https://github.com/utvoluntariado/radar-stats-ios) por el momento no es capaz de ofrecer las estadísticas de uso para España, sino que muestra las estadísticas a nivel Europeo, para los países que ya se han integrado con el hub europeo.
+Esperamos poder volver a ofrecer estadísticas de uso para España en el futuro.
 
 ### 20 de Octubre de 2020
 Comienzan los trabajos de desarrollo para adaptar la calculadora de riesgo de contagio por COVID19 del Prof. Jose-Luis Jiménez.
