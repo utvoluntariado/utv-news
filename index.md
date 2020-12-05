@@ -7,6 +7,7 @@
   * [Documentación RadarCOVID](#documentación-radarcovid)
   * [Propuestas y estudios](#radarstats-para-ios)
 - [Noticias](#noticias)
+  * [5 de Diciembre de 2020](#5-de-diciembre-de-2020)
   * [11 de Noviembre de 2020](#11-de-noviembre-de-2020)
   * [2 de Noviembre de 2020](#2-de-noviembre-de-2020)
   * [30 de Octubre de 2020](#30-de-octubre-de-2020)
@@ -65,6 +66,11 @@ Puedes revisar todas los documentos públicos [desde este enlace](https://github
 
 ___
 ## Noticias
+### 5 de Diciembre de 2020
+La UTV tiene el placer de colaborar, en la técnica, en esta iniciativa impulsada por el Dr. José Miguel Gaona y Pablo Fuente. Se trata de una serie de recomendaciones y consejos para poder pasar unas Navidades seguras en este año 2020.
+Sin duda de lectura recomendada, dado que está firmado y confeccionado por grandes representantes de la ciencia y la prevención.
+Puedes visitarlo en https://www.navidadesseguras.es
+
 ### 11 de Noviembre de 2020
 Junto con la Universidad de Murcia, la UTV presenta oficialmente [una propuesta de mejora de Radar COVID](https://github.com/utvoluntariado/utv-propuestas/blob/main/%5BUTV-UM%5D%20Venue%20tagging%20%2B%20Radar%20NODE.pdf), incluyendo sistemas de rastre de contagios en esapcios cerrados en los que el contagiador ya no está presente.
 
