@@ -2,12 +2,13 @@
 
 - [Proyectos](#proyectos)
   * [Calculadora HEPA](#calculadora-hepa)
+  * [Medidor de CO₂](#medidor-de-co)
   * [Calculadora Riesgo](#calculadora-riesgo)
-  * [Medidor CO2]
   * [RadarSTATS para iOS](#radarstats-para-ios)
   * [Documentación RadarCOVID](#documentación-radarcovid)
   * [Propuestas y estudios](#radarstats-para-ios)
 - [Noticias](#noticias)
+  * [15 de Enero de 2021](#15-de-enero-de-2021)
   * [5 de Diciembre de 2020](#5-de-diciembre-de-2020)
   * [11 de Noviembre de 2020](#11-de-noviembre-de-2020)
   * [2 de Noviembre de 2020](#2-de-noviembre-de-2020)
@@ -71,7 +72,7 @@ Puedes revisar todas los documentos públicos [desde este enlace](https://github
 
 ___
 ## Noticias
-### 15 de Enero de 2020
+### 15 de Enero de 2021
 Se publican bajo el paraguas de la UTV las instrucciones para crear un medidor de CO₂ en casa, sin necesidad de conocimientos previos ni habilidades técnicas especiales.
 Puedes visitarlo en https://www.navidadesseguras.es
 
