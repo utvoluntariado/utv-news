@@ -48,7 +48,7 @@ Aplicación web adaptada a móviles que permite calcular un porcentaje aproximad
 Basado en el trabajo del Prof. Jose-Luis Jiménez
 
 ### RadarSTATS para iOS
-![en-pruebas](https://img.shields.io/badge/Estado-en%20pruebas-blue) ![responsable](https://img.shields.io/badge/Responsable-@jorgej--ramos-lightgrey)
+![discontinuado](https://img.shields.io/badge/Estado-en%20pruebas-red) ![responsable](https://img.shields.io/badge/Responsable-@jorgej--ramos-lightgrey)
 
 RadarSTATS para iOS no ha pasado la revisión de contenidos de Apple, dado que [contiene información sensible acerca de la pandemia de COVID19](https://developer.apple.com/news/?id=03142020a), y por tanto no puede ser publicada en el AppStore.
 
