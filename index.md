@@ -3,6 +3,7 @@
 - [Proyectos](#proyectos)
   * [Calculadora HEPA](#calculadora-hepa)
   * [Calculadora Riesgo](#calculadora-riesgo)
+  * [Medidor CO2]
   * [RadarSTATS para iOS](#radarstats-para-ios)
   * [Documentación RadarCOVID](#documentación-radarcovid)
   * [Propuestas y estudios](#radarstats-para-ios)
@@ -33,6 +34,10 @@ Aplicación web adaptada a móviles que permite calcular con sencillez dos eleme
 Visita la calculadora desde [este enlace](http://hepa.utv.com.es).
 
 Basado en el trabajo del Prof. Jose-Luis Jiménez y Pablo Fuente.
+
+### Medidor de CO₂
+![online](https://img.shields.io/badge/Estado-online-green) ![responsable](https://img.shields.io/badge/Responsable-@jorgej--ramos-lightgrey)
+Un medidor de CO₂ económico y sencillo de hacer por ti mismo. Sin soldar ni programar. Tienes todas las instrucciones en [este enlace](https://github.com/utvoluntariado/medidor-co2)
 
 ### Calculadora de Riesgo
 ![en-desarrollo](https://img.shields.io/badge/Estado-en%20desarrollo-yellow) ![responsable](https://img.shields.io/badge/Responsable-@bernatvadell-lightgrey)
@@ -66,10 +71,14 @@ Puedes revisar todas los documentos públicos [desde este enlace](https://github
 
 ___
 ## Noticias
+### 15 de Enero de 2020
+Se publican bajo el paraguas de la UTV las instrucciones para crear un medidor de CO₂ en casa, sin necesidad de conocimientos previos ni habilidades técnicas especiales.
+Puedes visitarlo en https://www.navidadesseguras.es
+
 ### 5 de Diciembre de 2020
 La UTV tiene el placer de colaborar, en la técnica, en esta iniciativa impulsada por el Dr. José Miguel Gaona y Pablo Fuente. Se trata de una serie de recomendaciones y consejos para poder pasar unas Navidades seguras en este año 2020.
 Sin duda de lectura recomendada, dado que está firmado y confeccionado por grandes representantes de la ciencia y la prevención.
-Puedes visitarlo en https://www.navidadesseguras.es
+Puedes visitarlo en https://github.com/utvoluntariado/medidor-co2
 
 ### 11 de Noviembre de 2020
 Junto con la Universidad de Murcia, la UTV presenta oficialmente [una propuesta de mejora de Radar COVID](https://github.com/utvoluntariado/utv-propuestas/blob/main/%5BUTV-UM%5D%20Venue%20tagging%20%2B%20Radar%20NODE.pdf), incluyendo sistemas de rastre de contagios en esapcios cerrados en los que el contagiador ya no está presente.
