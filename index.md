@@ -50,7 +50,7 @@ Visita la calculadora desde [este enlace](https://utvoluntariado.github.io/ia-po
 Un medidor de CO₂ económico y sencillo de hacer por ti mismo. Sin soldar ni programar. Tienes todas las instrucciones en [este enlace](https://github.com/utvoluntariado/medidor-co2)
 
 ### Calculadora de Riesgo
-![en-desarrollo](https://img.shields.io/badge/Estado-en%20desarrollo-yellow) ![responsable](https://img.shields.io/badge/Responsable-@bernatvadell-lightgrey)
+![discontinuado](https://img.shields.io/badge/Estado-discontinuado-red) ![responsable](https://img.shields.io/badge/Responsable-@bernatvadell-lightgrey)
 
 Aplicación web adaptada a móviles que permite calcular un porcentaje aproximado de probabilidad de contagio por COVID19, en función de la actividad y el lugar donde se realiza.
 
