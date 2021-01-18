@@ -2,12 +2,14 @@
 
 - [Proyectos](#proyectos)
   * [Calculadora HEPA](#calculadora-hepa)
+  * [Calculadora de probabilidad de positivo](#calculadora-de-probabilidad-de-positivo)
   * [Medidor de CO₂](#medidor-de-co)
   * [Calculadora Riesgo](#calculadora-riesgo)
   * [RadarSTATS para iOS](#radarstats-para-ios)
   * [Documentación RadarCOVID](#documentación-radarcovid)
   * [Propuestas y estudios](#radarstats-para-ios)
 - [Noticias](#noticias)
+  * [18 de Enero de 2021](#18-de-enero-de-2021)
   * [15 de Enero de 2021](#15-de-enero-de-2021)
   * [5 de Diciembre de 2020](#5-de-diciembre-de-2020)
   * [11 de Noviembre de 2020](#11-de-noviembre-de-2020)
@@ -35,6 +37,13 @@ Aplicación web adaptada a móviles que permite calcular con sencillez dos eleme
 Visita la calculadora desde [este enlace](http://hepa.utv.com.es).
 
 Basado en el trabajo del Prof. Jose-Luis Jiménez y Pablo Fuente.
+
+### Calculadora de probabilidad de positivo
+![online](https://img.shields.io/badge/Estado-online-green) ![responsable](https://img.shields.io/badge/Responsable-@viCasco-lightgrey)
+
+Aplicación web que muestra la probabilidad de contar con un caso positivo por coronavirus en un grupo de personas, a partir de la IA y ua distribución binomial.
+
+Visita la calculadora desde [este enlace](https://utvoluntariado.github.io/ia-por-comunidades/).
 
 ### Medidor de CO₂
 ![online](https://img.shields.io/badge/Estado-online-green) ![responsable](https://img.shields.io/badge/Responsable-@jorgej--ramos-lightgrey)
@@ -72,6 +81,10 @@ Puedes revisar todas los documentos públicos [desde este enlace](https://github
 
 ___
 ## Noticias
+### 18 de Enero de 2021
+Se publica una calculadora de probabilidad de contar con un positivo en una reunión de personas a partir de la IA de cada CCAA.
+Puedes visitarla en https://utvoluntariado.github.io/ia-por-comunidades/
+
 ### 15 de Enero de 2021
 Se publican bajo el paraguas de la UTV las instrucciones para crear un medidor de CO₂ en casa, sin necesidad de conocimientos previos ni habilidades técnicas especiales.
 Puedes visitarlo en https://www.navidadesseguras.es
